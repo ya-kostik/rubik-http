@@ -1,0 +1,20 @@
+{
+  "name": "rubik-http",
+  "version": "1.0.0",
+  "description": "HTTP kubik for Rubik",
+  "main": "index.js",
+  "repository": "https://github.com/ya-kostik/rubik-http",
+  "author": "Constantin Tsukanov <c@indotech.ru>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "lodash": "^4.17.4",
+    "rubik-main": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0"
+  }
+}
