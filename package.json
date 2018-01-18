@@ -7,14 +7,18 @@
   "author": "Constantin Tsukanov <c@indotech.ru>",
   "license": "Apache-2.0",
   "private": false,
+  "scripts": {
+    "test": "jest --coverage"
+  },
   "dependencies": {
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "lodash": "^4.17.4",
-    "rubik-main": "^1.1.0"
+    "rubik-main": "^1.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0"
+    "eslint": "^4.15.0",
+    "jest": "^22.1.2"
   }
 }
