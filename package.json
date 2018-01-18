@@ -19,6 +19,7 @@
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
-    "jest": "^22.1.2"
+    "jest": "^22.1.2",
+    "supertest": "^3.0.0"
   }
 }
