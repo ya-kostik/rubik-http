@@ -1,5 +1,5 @@
 const HTTP = require('./lib/classes/HTTP');
-const API = require('./lib/classes/API');
 
-HTTP.API = API;
+HTTP.API = require('./lib/classes/API');
+HTTP.Socket = require('./lib/classes/Socket');
 module.exports = HTTP;
