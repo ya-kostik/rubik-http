@@ -1,2 +1,2 @@
-# rubik-model
-Model Kubik for Rubik
+# rubik-http
+HTTP Kubik for Rubik
