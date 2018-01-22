@@ -14,7 +14,8 @@
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "lodash": "^4.17.4",
-    "rubik-main": "^1.2.0"
+    "rubik-main": "^1.2.0",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
