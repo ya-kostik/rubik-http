@@ -2997,9 +2997,9 @@ rimraf@2, rimraf@^2.2.8, rimraf@^2.5.1, rimraf@^2.5.4, rimraf@^2.6.1:
   dependencies:
     glob "^7.0.5"
 
-rubik-main@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/rubik-main/-/rubik-main-1.4.0.tgz#4e51f5238d7f781ad649d8437960b578ba789948"
+rubik-main@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/rubik-main/-/rubik-main-1.5.0.tgz#c0c1ade342453ba399a513eed1712102a3b58434"
   dependencies:
     lodash "^4.17.4"
 
